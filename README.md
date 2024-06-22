@@ -4,7 +4,7 @@ Ce repo est un recueil de solutions non-officielles pour le recueil d'exercices 
 
 ### Processus /!\ A LIRE
 
-1. Si le fichier n'existe pas, créez le en duplicant ce template
+1. Si le fichier n'existe pas, créez le en duplicant [ce template](./template.md)
 2. Poussez le fichier/vos modifications sur une nouvelle branche
 3. Quand vous êtes satisfait.e, créez une merge request et attendez que quelqu'un la valide. Vous pouvez [me pinger](https://t.me/Arthur2479) au besoin.
 
